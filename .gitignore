@@ -1,9 +1,9 @@
-/virt
-/cache
-/data
-/config.yml
+virt
+cache
+data
+config.yml
 .DS_Store
-/todo*
+todo*
 /congress-legislators
 *.bak
 
